@@ -1,0 +1,9 @@
+POST http://localhost:8080/lectures
+Content-Type: application/json
+
+{
+  "course": "c1",
+  "lecture": "l1"
+}
+
+###

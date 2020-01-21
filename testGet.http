@@ -1,0 +1,10 @@
+GET http://localhost:8080/lectures
+
+###
+
+GET http://localhost:8080/lectures/findOne
+
+###
+GET http://localhost:8080/lectures/search/l1
+
+###

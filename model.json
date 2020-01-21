@@ -1,0 +1,11 @@
+{
+  "isbn": "123456",
+  "name": "Book1",
+  "Author": "Author",
+  "keywords": ["key1", "key2"],
+  "student": {
+	"id": 1,
+	"name": "Bat-Orshikh"
+  },
+  "returnDate": "Date"
+}
